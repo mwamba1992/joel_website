@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Joel M Gaitan",
+  "url": "https://mwendavano.com",
+  "sameAs": [
+    "https://www.instagram.com/jo_delems"
+  ],
+  "jobTitle": "Full Stack Developer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Mwendavano"
+  }
+}
+</script>
+
