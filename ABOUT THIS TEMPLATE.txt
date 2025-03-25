@@ -1,1 +1,2 @@
-Joel M Gaitan – Full Stack Developer and Artist. Explore his portfolio, education, and experience on Mwendavano.com.
+Joel M Gaitan –Passionate Full Stack Developer experienced in building backend systems and mobile apps using Spring,
+ JavaScript, Node.js, React Native, and modern frameworks on mwendavano.com.
